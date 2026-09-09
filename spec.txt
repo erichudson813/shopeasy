@@ -1,1 +1,1 @@
-Cart totals are shown in dollars rounded.
+Cart totals are shown in cents and displayed as $X.XX.
